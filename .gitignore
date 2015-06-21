@@ -8,4 +8,6 @@ y_train.txt
 y_test.txt
 features.txt
 activity_labels.txt
-CodeBook.html
+*.html
+z_Names.txt
+z_report_script.R
