@@ -1,0 +1,10 @@
+# Object files
+.Rhistory
+X_train.txt
+X_test.txt
+subject_train.txt
+subject_test.txt
+y_train.txt
+y_test.txt
+features.txt
+activity_labels.txt
